@@ -1,6 +1,6 @@
 require("@nomicfoundation/hardhat-toolbox");
 
-import("hardhat/config").HardhatUserConfig;
+/* import("hardhat/config").HardhatUserConfig; */
 
 const PRIVATE_KEY = vars.get("PRIVATE_KEY");
 
